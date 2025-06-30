@@ -18,7 +18,7 @@ A responsive admin panel built using **HTML**, **CSS**, and **jQuery**. This pro
 
 ## 📁 Project Structure
 
-text
+```text
 admin-panal/
 ├── index.html
 ├── css/
@@ -27,6 +27,7 @@ admin-panal/
 │   └── script.js
 └── assets/
     └── (images, icons, etc.)
+```
 
 ## 🚀 Getting Started
 
