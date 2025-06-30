@@ -33,14 +33,16 @@ admin-panal/
 
 ### 1. Clone the repository
 
-bash
+```bash
 git clone https://github.com/om6064/admin-panal.git
 cd admin-panal
+```
 2. Open index.html in your browser
-bash
+```bash
 Copy
 Edit
 open index.html
+```
 # or just double-click the file
 📦 Technologies Used
 HTML5
