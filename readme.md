@@ -18,7 +18,7 @@ A responsive admin panel built using **HTML**, **CSS**, and **jQuery**. This pro
 
 ## 📁 Project Structure
 
-```text
+text
 admin-panal/
 ├── index.html
 ├── css/
@@ -32,7 +32,7 @@ admin-panal/
 
 ### 1. Clone the repository
 
-```bash
+bash
 git clone https://github.com/om6064/admin-panal.git
 cd admin-panal
 2. Open index.html in your browser
